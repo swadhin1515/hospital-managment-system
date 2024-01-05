@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 swadhin1515/hospital-managment-system is built on the following main stack:
+
 - [Chartio](https://chartio.com) – Business Intelligence
 - [Coveralls](https://coveralls.io/) – Code Coverage
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
@@ -46,11 +47,13 @@ swadhin1515/hospital-managment-system is built on the following main stack:
 - [zx](https://github.com/google/zx) – Bash Scripts
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 swadhin1515/hospital-managment-system is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
 - <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
@@ -95,14 +98,15 @@ swadhin1515/hospital-managment-system is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/25684/default_09d743c2ce3cd5b32e4cae363d05941d9d137dd9.png' alt='zx'/> [zx](https://github.com/google/zx) – Bash Scripts
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/hospital-managment-system](https://github.com/swadhin1515/hospital-managment-system)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|269<br/>Tools used|11/10/23 <br/>Report generated|
+|274<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -593,9 +597,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (213)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (218)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (213)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (218)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -678,6 +682,7 @@ Full tech stack [here](/techstack.md)
 |[browserslist](https://www.npmjs.com/browserslist)|v4.21.3|04/15/23|swadhin1515 |MIT|N/A|
 |[bytes](https://www.npmjs.com/bytes)|N/A|04/15/23|swadhin1515 |MIT|N/A|
 |[cac](https://www.npmjs.com/cac)|N/A|04/15/23|swadhin1515 |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.0.0|04/15/23|swadhin1515 |MIT|N/A|
 |[cli](https://www.npmjs.com/cli)|N/A|04/15/23|swadhin1515 |MIT|N/A|
 |[co](https://www.npmjs.com/co)|N/A|04/15/23|swadhin1515 |MIT|N/A|
 |[code](https://www.npmjs.com/code)|N/A|04/15/23|swadhin1515 |BSD-3-Clause|N/A|
@@ -721,6 +726,7 @@ Full tech stack [here](/techstack.md)
 |[he](https://www.npmjs.com/he)|N/A|04/15/23|swadhin1515 |MIT|N/A|
 |[http](https://www.npmjs.com/http)|N/A|04/15/23|swadhin1515 |BSD-2-Clause|N/A|
 |[https](https://www.npmjs.com/https)|N/A|04/15/23|swadhin1515 |ISC|N/A|
+|[husky](https://www.npmjs.com/husky)|N/A|04/15/23|swadhin1515 |MIT|N/A|
 |[i](https://www.npmjs.com/i)|N/A|04/15/23|swadhin1515 |MIT|N/A|
 |[ignore](https://www.npmjs.com/ignore)|N/A|04/15/23|swadhin1515 |MIT|N/A|
 |[inherits](https://www.npmjs.com/inherits)|N/A|04/15/23|swadhin1515 |ISC|N/A|
@@ -732,7 +738,9 @@ Full tech stack [here](/techstack.md)
 |[json](https://www.npmjs.com/json)|N/A|04/15/23|swadhin1515 |Other|N/A|
 |[json5](https://www.npmjs.com/json5)|v2.2.2|04/15/23|swadhin1515 |MIT|N/A|
 |[lab](https://www.npmjs.com/lab)|N/A|04/15/23|swadhin1515 |BSD-3-Clause|N/A|
+|[laravel-mix](https://www.npmjs.com/laravel-mix)|N/A|04/15/23|swadhin1515 |MIT|N/A|
 |[level](https://www.npmjs.com/level)|N/A|04/15/23|swadhin1515 |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|N/A|04/15/23|swadhin1515 |MIT|N/A|
 |[lodash.debounce](https://www.npmjs.com/lodash.debounce)|v4.0.8|04/15/23|swadhin1515 |MIT|N/A|
 |[log](https://www.npmjs.com/log)|N/A|04/15/23|swadhin1515 |ISC|N/A|
 |[lru-cache](https://www.npmjs.com/lru-cache)|v5.1.1|04/15/23|swadhin1515 |ISC|N/A|
@@ -791,6 +799,7 @@ Full tech stack [here](/techstack.md)
 |[tar](https://www.npmjs.com/tar)|N/A|04/15/23|swadhin1515 |ISC|N/A|
 |[temp](https://www.npmjs.com/temp)|N/A|04/15/23|swadhin1515 |MIT|N/A|
 |[terser](https://www.npmjs.com/terser)|v5.9.0|04/15/23|swadhin1515 |BSD-2-Clause|[CVE-2022-25858](https://github.com/advisories/GHSA-4wf5-vphf-c2xc) (High)|
+|[test](https://www.npmjs.com/test)|N/A|04/15/23|swadhin1515 |MIT|N/A|
 |[through](https://www.npmjs.com/through)|N/A|04/15/23|swadhin1515 |MIT|N/A|
 |[traverse](https://www.npmjs.com/traverse)|N/A|04/15/23|swadhin1515 |MIT|N/A|
 |[ts-jest](https://www.npmjs.com/ts-jest)|v27.1.4|04/15/23|swadhin1515 |MIT|N/A|
@@ -816,4 +825,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
